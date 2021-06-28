@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.card-btn {
+    @apply inline-block bg-paraWhite py-2 px-6 text-center rounded-full border-2 border-white hover:text-paraWhite hover:border-white transition ease-out duration-300;
+}
