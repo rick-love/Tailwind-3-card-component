@@ -45,7 +45,6 @@ Users should be able to:
 - Tailwind CSS
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 ### What I learned
 
